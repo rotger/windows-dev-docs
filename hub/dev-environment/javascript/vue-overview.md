@@ -18,7 +18,7 @@ If you want to build a server-rendered Vue web app with advanced features such a
 
 ## What makes Vue unique?
 
-Vue uses a model-view-viewmodel architecture. Evan You previously worked on AngularJS at Google and extracted parts of Angular to offer a more lightweight framework. Vue is in may ways similar to React, Angular, Ember, Knockout, etc. See the Vue documentation for a more [in-depth comparison](https://vuejs.org/v2/guide/comparison.html) to these other JavaScript frameworks.
+Vue uses a model-view-viewmodel architecture. Evan You previously worked on AngularJS at Google and extracted parts of Angular to offer a more lightweight framework. Vue is in many ways similar to React, Angular, Ember, Knockout, etc. See the Vue documentation for a more [in-depth comparison](https://vuejs.org/v2/guide/comparison.html) to these other JavaScript frameworks.
 
 ## What can you do with Vue?
 
